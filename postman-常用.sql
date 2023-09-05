@@ -10,3 +10,5 @@ https://github.com/apache/flink/blob/master/flink-examples/flink-examples-stream
 Flink源码分析(二)：Async I/O 实现原理
 https://bbs.huaweicloud.com/blogs/189300
 
+postgresql 架构
+https://architect.pub/book/export/html/554
